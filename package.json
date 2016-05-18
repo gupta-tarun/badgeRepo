@@ -1,0 +1,11 @@
+{
+  "name": "badgerepo",
+  "version": "1.0.0",
+  "description": "This repo will contain the badges for different repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Tarun Gupta <tarunzweb@gmail.com>",
+  "license": "ISC"
+}
